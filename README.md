@@ -1,4 +1,4 @@
-code-education-git v0.1.0
+code-education-git v0.1.1
 ==================
 
 Projeto para a code education sobre Git
@@ -19,3 +19,6 @@ git push
 
 criando RELEASE
 0.1.0
+
+atualizando para RELEASE
+0.1.1
