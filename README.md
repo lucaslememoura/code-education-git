@@ -1,4 +1,4 @@
-code-education-git
+code-education-git v0.1.0
 ==================
 
 Projeto para a code education sobre Git
@@ -16,3 +16,6 @@ git add README.md
 git commit -m "atualizando README"
 
 git push
+
+criando RELEASE
+0.1.0
